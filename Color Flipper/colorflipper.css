@@ -1,0 +1,15 @@
+.btn1 {
+    background-color: #f2f7f2; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.brder {
+    border: 1px solid black;
+    padding: 15px;
+}

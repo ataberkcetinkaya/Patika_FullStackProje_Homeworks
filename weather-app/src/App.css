@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.clockcolor {
+  color:white;
+  font-size: 250%;
+}
+
+.welcomemsg {
+  color:white;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+
+.input {
+  padding: 10px;
+  width: 80%;
+  margin: auto;
+  border: 1px solid lightgray;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.weather-data {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(0, 214, 54);
+}
+
+.city {
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.temp {
+  font-size: 90px;
+  padding: 10px;
+  border: 1px solid rgb(181, 253, 255);
+  border-radius: 12px;
+}
+
+.weather {
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.cityError {
+  color: rgba(217, 255, 0, 0.808);
+}
+
+.images {
+  border-radius: 20%;
+}
