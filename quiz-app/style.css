@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.layer {
+    background-color: rgb(34, 131, 187);
+    width: 100%;
+    /*  text-align: center; */
+    height: max-content; /* ne kadar cok veri girilirse, sayfada bu alan o kadar çok asagi uzasin. */
+    
+}
+
+form {
+    max-width: 400px;
+    margin: auto;
+}
+
+button {
+    width: 100%; /* button formun icinde oldugu icin formun size'i kadar yeri kaplayacak, 100%.. Formun width kismi 400px'dir */
+}
+
+/* p {
+    text-align: center;
+} */
